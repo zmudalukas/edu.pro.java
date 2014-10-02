@@ -12,7 +12,7 @@ public class DatoveTypy {
 		
 		vek = 29; //inicializacia premennej
 		
-		int vyska, hmotnost;
+		int vyska, hmotnost; //mozeme deklarovat viacere premenne naraz. musime ich oddelit ciarkou
 		
 		int rocnik = 4;
 		
@@ -32,7 +32,7 @@ public class DatoveTypy {
 		
 		//typ char
 		
-		char mena = '€';
+		char mena = 'â‚¬';
 		
 		System.out.println("Mena: " + mena);
 		
